@@ -1,0 +1,24 @@
+{
+  "CanContainContent": false,
+  "Category": "Sanwu",
+  "CreatedBy": "Sanwu.org",
+  "CreatedByURL": "",
+  "Description": "",
+  "DocsURL": "",
+  "EnabledByDefault": true,
+  "FileVersion": 3,
+  "FriendlyName": "SanwuUEUtilites",
+  "Installed": true,
+  "IsBetaVersion": false,
+  "MarketplaceURL": "",
+  "Modules": [
+    {
+      "Name": "SanwuUEUtilites",
+      "Type": "Runtime",
+      "LoadingPhase": "Default"
+    }
+  ],
+  "SupportURL": "",
+  "Version": 1,
+  "VersionName": "1.0"
+}
